@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163687956483",
+    "firebase_url": "https://belajar-maps-241803.firebaseio.com",
+    "project_id": "belajar-maps-241803",
+    "storage_bucket": "belajar-maps-241803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163687956483:android:3612035366730193",
+        "android_client_info": {
+          "package_name": "indonesia.angarsalabs.belajarcloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163687956483-bmt68v7bg9sgdl86hrlk3oumt9tb7d00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDha5VLT8GqFd_CsrkqskaTcBGfdFOByxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163687956483-bmt68v7bg9sgdl86hrlk3oumt9tb7d00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
